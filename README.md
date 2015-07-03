@@ -1,2 +1,2 @@
 # dind-pip
-Docker inside docker with python-pip included
+Docker inside docker with docker-compose included
